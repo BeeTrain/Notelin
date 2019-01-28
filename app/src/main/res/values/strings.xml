@@ -1,0 +1,10 @@
+<resources>
+	<string name="app_name">Notelin</string>
+	<string name="action_delete_all">Удалить все</string>
+	<string name="action_save">Сохранить</string>
+	<string name="action_search">Поиск</string>
+	<string name="action_sort_by">Сортировка</string>
+	<string name="action_sort_by_date">Сортировать по дате</string>
+	<string name="action_sort_by_title">Сортировать по названию</string>
+	<string name="list_empty">Список пуст</string>
+</resources>
